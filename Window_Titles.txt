@@ -1,0 +1,48 @@
+Window_Titles.txt - WordPad
+Window_Titles.txt: Bloc de notas
+Notas.docx - Microsoft Word
+Windows_Titles.y - KWrite
+memoria.pdf - Adobe Acrobat Reader DC
+books.csv - TEST VERSION 4.54
+/Data/ books.csv - PyCharm 4.54
+C/Data/tra /la/la  books.csv - PyCharm 4.54
+C:/Data/tra /la/la  books.csv - PyCharm 4.54
+/FIC/IHM/git/ihm-2015/Practica1 - /Data/ books.csv - PyCharm 4.54
+/Data/books.csv - PyCharm 4.54
+.../Data/books.csv - PyCharm 4.54
+~/Data/books.csv - PyCharm 4.54
+[~/Data/books.csv] - PyCharm 4.54
+Practica1 - /FIC2/IHM/git/ihm-2015/Practica1 - /Data/ books.csv - PyCharm 4.54
+Practica1 - [~/FIC/IHM/git/ihm-2015/Practica1] - .../Data/books.csv - PyCharm 4.54
+test.test - TEST APP
+Śímbolo del sistema
+Dev-C++ 4.9.9.9
+Java - Eclipse Plataform
+ISL Pronto 2.2.2
+API - [C:\Users\jseoanev\Developer\Workspaces\Python\API] - ...\kiplyapi\settings.py - PyCharm 4.5.4
+WEBAPP - [C:\Users\cestevezd\Desktop\WEB_PANEL\WEBAPP] - ...\app\directives\my_profile\personalprofileCtrl.js - WebStorm 10.0.2
+WEBAPP - [C:\Users\cestevezd\Desktop\WEB_PANEL\WEBAPP] - WebStorm 10.0.2
+Calculadora
+ISL Pronto 2.3.0beta16
+*C:\Users\cestevezd\Desktop\app.js - Notepad++
+*device_state_off.svg - Inkscape
+C:\Users\jseoanev\Desktop\HIDDENFORPRIVACY.txt - Notepad++ [Administrator]
+windows.panel.kiply.com - [C:\Users\cestevezd\Desktop\windows.panel.kiply.com] - goToPanel.html - WebStorm 10.0.2
+2015345cNq-API.zip
+Marcar Administrador: C:\Windows\system32\cmd.exe
+Adobe Reader Updater
+2015344grk-rds10.zip - WinRAR (evaluation copy)
+MySQL Workbench (No responde)
+CONSULTAS_REDSHIFT.txt: Bloc de notas
+2015-12-15.log: Bloc de notas
+javascript - Angular JS - Make service globally accessible from controllers and view - Stack Overflow - Google Chrome
+https://eu-west-1.console.aws.amazon.com/elasticbeanstalk/home?region=eu-west-1#/applications?applicationNameFilter= - Google Chrome
+https://eu-west-1.console.aws.amazon.com/cloudsearch/home?region=eu-west-1#domainDashboard,aggregated-application-logs - Google Chrome
+www.boe.es/boe/dias/2012/12/29/pdfs/BOE-A-2012-15703.pdf - Google Chrome
+dev.panel.kiply.com/#/myaccount - Google Chrome
+www.unixtimestamp.com/index.php - Google Chrome
+MySQL :: MySQL 5.7 Reference Manual :: 12.6.1 Arithmetic Operators - Google Chrome
+Make a bucket public in Amazon S3 - Stack Overflow - Google Chrome
+Recibidos - EDITADO@PRIVACIDAD.com - Correo de EDITADO,PRIVACIDAD - Google Chrome
+&%%&$%&
+Dev-C++ 4.9.9.8
