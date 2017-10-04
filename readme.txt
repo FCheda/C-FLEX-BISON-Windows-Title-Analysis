@@ -8,6 +8,6 @@
 
 	Readme.txt			General repository information
 	Makefile			Just a Make file
-	Window_Titles.l	Contains code for the lexical analyser [Flex]
-	Window_Titles.y	Contains code for the syntactic analyser [Byson]
+	Window_Titles.l		Contains code for the lexical analyser [Flex]
+	Window_Titles.y		Contains code for the syntactic analyser [Byson]
 	Window_Titles.txt	Contains test window titles 
